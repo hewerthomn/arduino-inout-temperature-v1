@@ -1,4 +1,4 @@
 api/config\.php
-api/*sublime-[project|workspace]
+api/*sublime-*
 api/*sftp-*\.json
 
