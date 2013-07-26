@@ -1,0 +1,2454 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"controllers"
+			],
+			[
+				"tabl",
+				"tablet-comment"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"t",
+				"this	this"
+			],
+			[
+				"App",
+				"AppController"
+			],
+			[
+				"back",
+				"background	background-color: hex"
+			],
+			[
+				"ba",
+				"background	background-color: hex"
+			],
+			[
+				"Res",
+				"Resource"
+			],
+			[
+				"addMarker",
+				"addMarkerToMap"
+			],
+			[
+				"dr",
+				"drawFeature"
+			],
+			[
+				"dea",
+				"drawFeature"
+			],
+			[
+				"active",
+				"activate"
+			],
+			[
+				"Dra",
+				"DrawFeature"
+			],
+			[
+				"extra",
+				"extractPoint"
+			],
+			[
+				"start",
+				"startPoint"
+			],
+			[
+				"drag",
+				"point_drag"
+			],
+			[
+				"select",
+				"selected"
+			],
+			[
+				"add",
+				"addControls"
+			],
+			[
+				"setC",
+				"setCenterMap"
+			],
+			[
+				"se",
+				"search"
+			],
+			[
+				"btn-icon",
+				"btn-icon-add"
+			],
+			[
+				"bt",
+				"btn-icon-add"
+			],
+			[
+				"oni",
+				"onibus_id"
+			],
+			[
+				"onibu",
+				"onibus_id"
+			],
+			[
+				"arr",
+				"arrFeatures"
+			],
+			[
+				"onibus",
+				"onibus_carregados"
+			],
+			[
+				"canAdd",
+				"cannAddOnibus"
+			],
+			[
+				"rota",
+				"rota_id"
+			],
+			[
+				"rot",
+				"rota_id"
+			],
+			[
+				"ro",
+				"rota_id"
+			],
+			[
+				"rotas",
+				"rotas_carregadas"
+			],
+			[
+				"geom",
+				"geometry"
+			],
+			[
+				"ponto",
+				"ponto_id"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"type",
+				"typeahead"
+			],
+			[
+				"sele",
+				"select_callback"
+			],
+			[
+				"oniu",
+				"onibus_list"
+			],
+			[
+				"onib",
+				"onibus_list"
+			],
+			[
+				"array",
+				"array_onibus"
+			],
+			[
+				"pop",
+				"popup"
+			],
+			[
+				"remo",
+				"removePopups"
+			],
+			[
+				"Op",
+				"OpenLayers"
+			],
+			[
+				"addCon",
+				"addControl"
+			],
+			[
+				"setBas",
+				"setBaselayer"
+			],
+			[
+				"show",
+				"show_list"
+			],
+			[
+				"modal",
+				"modalPonto"
+			],
+			[
+				"lis",
+				"lista_pontos"
+			],
+			[
+				"remove",
+				"removeOnibus"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"linest",
+				"linestring"
+			],
+			[
+				"arrP",
+				"arrPontos"
+			],
+			[
+				"Geo",
+				"Geometry"
+			],
+			[
+				"Geom",
+				"geometry"
+			],
+			[
+				"D",
+				"DboSource"
+			],
+			[
+				"addRo",
+				"addRotasToList"
+			],
+			[
+				"pr",
+				"prompt"
+			],
+			[
+				"addRotas",
+				"addRotasToList"
+			],
+			[
+				"addP",
+				"addPontosToMap"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"poin",
+				"point_cancel"
+			],
+			[
+				"self",
+				"selfButton"
+			],
+			[
+				"addPontos",
+				"addPontosToMap"
+			],
+			[
+				"aler",
+				"alert_modal"
+			],
+			[
+				"data",
+				"dataPonto"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"id",
+				"id_ponto"
+			],
+			[
+				"pontos",
+				"pontos_inseridos"
+			],
+			[
+				"addL",
+				"addLayersToMap"
+			],
+			[
+				"get",
+				"getProjectionObject"
+			],
+			[
+				"drop",
+				"dropdown"
+			],
+			[
+				"Usu",
+				"Usuário"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"point",
+				"pointFeature"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"d",
+				"draw"
+			],
+			[
+				"draw",
+				"drawPath"
+			],
+			[
+				"dra",
+				"drawPath"
+			],
+			[
+				"title",
+				"title_for_layout"
+			],
+			[
+				"Postgres",
+				"Postgres"
+			],
+			[
+				"save",
+				"saveLines"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"html",
+				"html	html"
+			],
+			[
+				"w",
+				"width: ${1001:$SELECTION};"
+			],
+			[
+				"login",
+				"loginAction"
+			],
+			[
+				"U",
+				"Usuário"
+			],
+			[
+				"erro",
+				"error-message"
+			],
+			[
+				"flash",
+				"flash_success"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"arti",
+				"article"
+			],
+			[
+				"ar",
+				"article"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"disp",
+				"display	display: common-types"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"ex",
+				"extensions"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "inout.php",
+			"settings":
+			{
+				"buffer_size": 890,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "classes/Temperature.class.php",
+			"settings":
+			{
+				"buffer_size": 1846,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 1522,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "graphics.php",
+			"settings":
+			{
+				"buffer_size": 6,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "classes/autoload.php",
+			"settings":
+			{
+				"buffer_size": 405,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "classes/Connection.class.php",
+			"settings":
+			{
+				"buffer_size": 681,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "classes/Log.class.php",
+			"settings":
+			{
+				"buffer_size": 891,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"sshmlt",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"ss",
+				"Set Syntax: PHP"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"brow",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"rp",
+				"Package Control: Remove Package"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"show",
+				"SFTP: Show Panel"
+			],
+			[
+				"alig",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"uf",
+				"SFTP: Upload File"
+			],
+			[
+				"sowpa",
+				"SFTP: Show Panel"
+			],
+			[
+				"dl",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"sftp",
+				"SFTP: Edit Server…"
+			],
+			[
+				"up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"bro",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"aap",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: <?php echo … ?>"
+			],
+			[
+				"ww",
+				"Word Wrap: Toggle"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"local-r",
+				"SFTP: Sync Local -> Remote…"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"status",
+				"View: Toggle Status Bar"
+			],
+			[
+				"bar",
+				"View: Toggle Status Bar"
+			],
+			[
+				"removep",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"slr",
+				"SFTP: Sync Local -> Remote…"
+			],
+			[
+				"si",
+				"View: Toggle Side Bar"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"cama",
+				"Camaleón : Random Colour Scheme"
+			],
+			[
+				"mono",
+				"Camaleón : Next Color Scheme and Chrome Theme"
+			],
+			[
+				"spl",
+				"SFTP: Show Panel"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"ssmark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ftp",
+				"Preferences: SFTP Key Bindings"
+			],
+			[
+				"wwp",
+				"Word Wrap: Toggle"
+			],
+			[
+				"removepa",
+				"Package Control: Remove Package"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ssap",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"ssapa",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"ssa",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"",
+				"Clipboard Manager: Choose & Paste"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"wrap",
+				"Snippet: wrap"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"HTML5",
+				"Snippet: IE Conditional Comment: HTML5 Shim"
+			],
+			[
+				"snipppet",
+				"Snippet: DOCTYPE HTML"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: function",
+				"Snippet: function …"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"Snippet: class",
+				"Snippet: class …"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"Console",
+				"Set Syntax: R Console"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/evertoninocencio/Library/Application Support/Sublime Text 2/Packages/User/SFTP.sublime-settings",
+		"/Users/evertoninocencio/sketchbook/InOutTemperature/api/sftp-config.json",
+		"/Users/evertoninocencio/sketchbook/InOutTemperature/api/index.php",
+		"/Users/evertoninocencio/sketchbook/libraries/DHT11/dht11.cpp",
+		"/Users/evertoninocencio/sketchbook/TempDuino/.gitignore",
+		"/Users/evertoninocencio/sketchbook/libraries/DHT11/dht11.h",
+		"/Users/evertoninocencio/sketchbook/TempDuino/README.md",
+		"/Users/evertoninocencio/Projetos/sabedeus/index.html",
+		"/Users/evertoninocencio/Projetos/sabedeus/logo.fw.png",
+		"/Users/evertoninocencio/Projetos/sabedeus/sftp-config.json",
+		"/Users/evertoninocencio/Sites/cakestrap/app/webroot/css/style.css",
+		"/Users/evertoninocencio/Sites/cakestrap/app/View/Elements/css.ctp",
+		"/Users/evertoninocencio/Sites/cakestrap/app/View/Layouts/default.ctp",
+		"/Users/evertoninocencio/Sites/cakestrap/app/View/Elements/navbar.ctp",
+		"/Users/evertoninocencio/Sites/cakestrap/app/Controller/AppController.php",
+		"/Users/evertoninocencio/Sites/cakestrap/app/webroot/js/script.js",
+		"/Users/evertoninocencio/Sites/cakestrap/app/Config/core.php",
+		"/Users/evertoninocencio/Sites/cakestrap/app/View/Pages/home.ctp",
+		"/Users/evertoninocencio/Sites/cakestrap/app/View/Elements/script.ctp",
+		"/Users/evertoninocencio/Sites/cakestrap/app/sftp-config.json",
+		"/Users/evertoninocencio/Sites/ondebus/app/Controller/AppController.php",
+		"/Users/evertoninocencio/Sites/ondebus/app/Controller/UsersController.php",
+		"/Users/evertoninocencio/Sites/ondebus/app/sftp-config-alt.json",
+		"/Users/evertoninocencio/Sites/ondebus/app/Config/core.php",
+		"/Users/evertoninocencio/Sites/ondebus/app/Plugin/asset_compress/Routing/Filter/AssetCompressor.php",
+		"/Users/evertoninocencio/Sites/ondebus/app/Controller/CitiesController.php",
+		"/Users/evertoninocencio/Sites/ondebus/app/Config/bootstrap.php",
+		"/Users/evertoninocencio/Sites/ondebus/app/Config/acl.php",
+		"/Users/evertoninocencio/Sites/ondebus/app/webroot/.htaccess",
+		"/Users/evertoninocencio/Sites/ondebus/app/sftp-config.json",
+		"/Users/evertoninocencio/Sites/ondebus/app/View/Layouts/default.ctp",
+		"/Users/evertoninocencio/Sites/ondebus/app/webroot/js/city.js",
+		"/Users/evertoninocencio/Sites/ondebus/app/View/Elements/navbar.ctp",
+		"/Users/evertoninocencio/Sites/ondebus/app/View/Cities/admin_edit.ctp",
+		"/Users/evertoninocencio/Sites/ondebus/app/Controller/PointsController.php",
+		"/Users/evertoninocencio/Sites/ondebus/app/Config/routes.php",
+		"/Users/evertoninocencio/Sites/ondebus/app/View/Users/admin_login.ctp",
+		"/Users/evertoninocencio/Sites/ondebus/app/View/Cities/city.ctp",
+		"/Users/evertoninocencio/Sites/ondebus/app/webroot/js/admin/point_map.js",
+		"/Users/evertoninocencio/Sites/ondebus/app/View/Elements/admin/navbar.ctp",
+		"/Users/evertoninocencio/Sites/ondebus/app/Config/database.php",
+		"/Users/evertoninocencio/Sites/ondebus/app/Plugin/asset_compress/Lib/Filter/LessPHP.php",
+		"/Users/evertoninocencio/Sites/ondebus/app/Controller/ContactsController.php",
+		"/Users/evertoninocencio/Sites/ondebus/app/View/Contacts/index.ctp",
+		"/Users/evertoninocencio/Library/Application Support/Sublime Text 2/Packages/phpDocumentor/phpdocumentor.sublime-settings",
+		"/Users/evertoninocencio/Sites/ondebus/app/Controller/RoutesController.php",
+		"/Users/evertoninocencio/Sites/ondebus/app/webroot/cache_js/city.js",
+		"/Users/evertoninocencio/Sites/ondebus/app/ftpsync.settings",
+		"/Users/evertoninocencio/Sites/udibus-mysql/app/sftp-config-alt.json",
+		"/Users/evertoninocencio/Sites/udibus-mysql/app/Config/bootstrap.php",
+		"/Users/evertoninocencio/Sites/udibus/app/Udibus.sublime-project",
+		"/Users/evertoninocencio/Sites/udibus/app/sftp-config.json",
+		"/Users/evertoninocencio/Sites/udibus/app/Config/database.php",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/Controller/PostsController.php",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/View/Posts/admin_edit.ctp",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/Controller/AppController.php",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/Config/asset_compress.ini",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/webroot/js/admin/scripts.js",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/webroot/js/ckeditor/config.js",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/View/Helper/AppHelper.php",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/View/Elements/sidebar.ctp",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/View/Layouts/default.ctp",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/View/Elements/admin/navbar.ctp",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/View/Layouts/admin.ctp",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/View/Usuarios/admin_login.ctp",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/View/Layouts/error.ctp",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/View/Elements/admin/css.ctp",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/View/Elements/admin/meta.ctp",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/View/Usuarios/admin_dashboard.ctp",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/View/Helper/GravatarHelper.php",
+		"/Users/evertoninocencio/Library/Application Support/Sublime Text 2/Packages/Terminal/Base File.sublime-settings",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/View/Elements/meta.ctp",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/Config/core.php",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/View/Elements/scripts.ctp",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/View/Elements/header.ctp",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/View/Elements/footer.ctp",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/View/Elements/pics.ctp",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/webroot/js/bootstrap-wysihtml5-0.0.2.js",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/webroot/js/bootstrap-wysihtml5.pt-BR.js",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/Model/Post.php",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/Controller/UsuariosController.php",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/webroot/css/admin-style.css",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/webroot/css/style.css",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/View/Elements/admin_navbar.ctp",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/Config/routes.php",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/View/Usuarios/dashboard.ctp",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/View/Errors/error500.ctp",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/View/Elements/css.ctp",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/webroot/humans.txt",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/webroot/cache_js/libs.js",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/sftp-config.json",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/Config/bootstrap.php",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/webroot/ckeditor/_samples/ui_color.html",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/View/Posts/index.ctp",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/View/Posts/view.ctp",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/sftp-config-alt.json",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/View/Errors/error400.ctp",
+		"/Users/evertoninocencio/Sites/evertoninocencio/app/Config/database.php",
+		"/home/everton/Sites/evertoninocencio/app/Controller/AppController.php",
+		"/home/everton/Sites/evertoninocencio/app/View/Pages/sobre.ctp",
+		"/home/everton/Sites/evertoninocencio/app/Controller/PostsController.php",
+		"/home/everton/Sites/evertoninocencio/app/View/Layouts/error.ctp",
+		"/home/everton/Sites/evertoninocencio/app/View/Errors/missing_action.ctp",
+		"/home/everton/Sites/evertoninocencio/app/View/Errors/error500.ctp",
+		"/home/everton/Sites/evertoninocencio/app/View/Posts/index.ctp",
+		"/home/everton/Sites/evertoninocencio/app/View/Elements/form_search.ctp",
+		"/home/everton/Sites/evertoninocencio/app/View/Layouts/default.ctp",
+		"/home/everton/Sites/evertoninocencio/app/View/Posts/home.ctp",
+		"/home/everton/Sites/evertoninocencio/app/webroot/css/style.css",
+		"/home/everton/Sites/evertoninocencio/app/View/Posts/view.ctp",
+		"/home/everton/Sites/evertoninocencio/app/View/Contatos/index.ctp",
+		"/home/everton/Sites/evertoninocencio/app/View/Pages/trabalhos.ctp",
+		"/home/everton/Sites/evertoninocencio/app/View/Elements/fb_like.ctp",
+		"/home/everton/Sites/evertoninocencio/app/Controller/ContatosController.php",
+		"/home/everton/Sites/evertoninocencio/app/webroot/ckeditor/_source/plugins/a11yhelp/plugin.js",
+		"/home/everton/Sites/evertoninocencio/app/View/Posts/rss/index.ctp",
+		"/home/everton/Sites/evertoninocencio/app/Config/routes.php",
+		"/home/everton/Sites/evertoninocencio/app/View/Layouts/rss/default.ctp",
+		"/home/everton/Sites/evertoninocencio/app/sftp-config.json",
+		"/home/everton/Sites/evertoninocencio/app/Config/database.php",
+		"/home/everton/Sites/evertoninocencio/app/View/Posts/admin_edit.ctp",
+		"/home/everton/Sites/evertoninocencio/app/Config/email.php",
+		"/home/everton/Sites/udibus/app/View/Contacts/index.ctp",
+		"/home/everton/Sites/evertoninocencio/app/Model/Contato.php",
+		"/home/everton/Sites/udibus/app/Controller/ContactsController.php",
+		"/home/everton/Sites/udibus/app/View/Pages/home.ctp",
+		"/home/everton/.bashrc",
+		"/home/everton/Sites/evertoninocencio/app/webroot/js/scripts.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"APIKEY",
+			"origin",
+			"dew_point",
+			"temperature",
+			"zoom",
+			"isNaN",
+			"icon-",
+			"icon",
+			"        \n",
+			"']);\n",
+			");\n",
+			"}-",
+			"\n                        ",
+			"\n                    ",
+			"icon",
+			"alias",
+			"city_id",
+			"Point",
+			"bounds",
+			"fixM",
+			"data",
+			"add_linha",
+			"console",
+			"',\n",
+			"();?>\n",
+			"city(",
+			"wysihtml5",
+			"span4",
+			"span6",
+			"span2",
+			"span6",
+			"h1",
+			"String",
+			"h4",
+			"h1",
+			"R",
+			"created",
+			"h3",
+			"h4",
+			"span4",
+			"span6",
+			"?=",
+			"Event",
+			"Preencha",
+			"estaria",
+			"?=",
+			"'=>'",
+			"=",
+			":hover",
+			"span",
+			" }",
+			"-->",
+			"Contato",
+			"h2",
+			"post",
+			"Post",
+			"post",
+			"Post",
+			"post",
+			"${",
+			"name",
+			"Line",
+			">\n",
+			"?=",
+			"Line",
+			"?=",
+			"Router::connect('/posts/:title/:id', \n		array('controller'=>'posts', 'action'=>'view'),\n		array('pass' => array('id'), \n			'titulo' => '[a-z0-9-]+', \n			'id' => '[0-9]+'\n	));",
+			"\nRewriteCond %{REQUEST_FILENAME} !-f\nRewriteCond %{REQUEST_FILENAME} !-d",
+			"?=",
+			"\n	",
+			"?=",
+			"btn-mini",
+			"?=",
+			"});",
+			"?=",
+			"udibus",
+			"icon_name",
+			"25",
+			"4326",
+			"1",
+			"x",
+			"25",
+			"0",
+			"overlayer",
+			"extractPoint",
+			"text",
+			"start_point",
+			"Linha",
+			"Line",
+			"ponto",
+			"Ponto",
+			"Linha",
+			"Line",
+			"7",
+			"selfButton",
+			"this",
+			"point_toggle",
+			"Bus",
+			"bus",
+			"Bus",
+			"Line",
+			" class=\"span1\"",
+			"tab2",
+			"Linha",
+			"Line",
+			"Linha",
+			"Line",
+			"linha",
+			"Linha",
+			"Usuário",
+			"User",
+			"Usuário",
+			"User",
+			"usuário",
+			"Usuário",
+			"User",
+			"<",
+			"User",
+			"user",
+			"User",
+			"?=",
+			"onibus",
+			"?=",
+			"usuarios",
+			"caption",
+			"?=",
+			"Usuario",
+			"			\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "inout.php",
+					"settings":
+					{
+						"buffer_size": 890,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								454,
+								454
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "classes/Temperature.class.php",
+					"settings":
+					{
+						"buffer_size": 1846,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								961,
+								961
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 168.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 1522,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1522,
+								1522
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "graphics.php",
+					"settings":
+					{
+						"buffer_size": 6,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6,
+								6
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "classes/autoload.php",
+					"settings":
+					{
+						"buffer_size": 405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								271,
+								271
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "classes/Connection.class.php",
+					"settings":
+					{
+						"buffer_size": 681,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23,
+								23
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "classes/Log.class.php",
+					"settings":
+					{
+						"buffer_size": 891,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								427,
+								427
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.phpdocumentor":
+	{
+		"height": 98.0
+	},
+	"output.sftp":
+	{
+		"height": 287.0
+	},
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"nav",
+				"View/Elements/navbar.ctp"
+			],
+			[
+				"de",
+				"View/Layouts/default.ctp"
+			],
+			[
+				"css.c",
+				"View/Elements/css.ctp"
+			],
+			[
+				"script",
+				"View/Elements/script.ctp"
+			],
+			[
+				"home",
+				"View/Pages/home.ctp"
+			],
+			[
+				"core",
+				"Config/core.php"
+			],
+			[
+				"appc",
+				"Controller/AppController.php"
+			],
+			[
+				"log",
+				"Plugin/Logger/Model/Log.php"
+			],
+			[
+				"boot",
+				"Config/bootstrap.php"
+			],
+			[
+				"assetcompressor",
+				"Plugin/asset_compress/Routing/Filter/AssetCompressor.php"
+			],
+			[
+				"usc",
+				"Controller/UsersController.php"
+			],
+			[
+				"uc",
+				"Controller/UsersController.php"
+			],
+			[
+				"acl",
+				"Config/acl.php"
+			],
+			[
+				"def",
+				"View/Layouts/default.ctp"
+			],
+			[
+				"cc",
+				"Controller/CitiesController.php"
+			],
+			[
+				"city",
+				"View/Cities/city.ctp"
+			],
+			[
+				"edit",
+				"View/Cities/admin_edit.ctp"
+			],
+			[
+				"cityjs",
+				"webroot/js/city.js"
+			],
+			[
+				"pc",
+				"Controller/PointsController.php"
+			],
+			[
+				"database",
+				"Config/database.php"
+			],
+			[
+				"pointmap",
+				"webroot/js/admin/point_map.js"
+			],
+			[
+				"route",
+				"Config/routes.php"
+			],
+			[
+				"users",
+				"Controller/UsersController.php"
+			],
+			[
+				"login",
+				"View/Users/admin_login.ctp"
+			],
+			[
+				"c",
+				"Config/core.php"
+			],
+			[
+				"aclphp",
+				"Config/acl.php"
+			],
+			[
+				"index",
+				"View/Contacts/index.ctp"
+			],
+			[
+				"contatc",
+				"Controller/ContactsController.php"
+			],
+			[
+				"databa",
+				"Config/database.php"
+			],
+			[
+				"rc",
+				"Controller/RoutesController.php"
+			],
+			[
+				"json",
+				"sftp-config.json"
+			],
+			[
+				"aedit",
+				"View/Posts/admin_edit.ctp"
+			],
+			[
+				"ass",
+				"Config/asset_compress.ini"
+			],
+			[
+				"logi",
+				"View/Usuarios/admin_login.ctp"
+			],
+			[
+				"adm",
+				"View/Layouts/admin.ctp"
+			],
+			[
+				"aph",
+				"View/Helper/AppHelper.php"
+			],
+			[
+				"sid",
+				"View/Elements/sidebar.ctp"
+			],
+			[
+				"scr",
+				"webroot/js/admin/scripts.js"
+			],
+			[
+				"anv",
+				"View/Elements/admin/navbar.ctp"
+			],
+			[
+				"grava",
+				"View/Helper/GravatarHelper.php"
+			],
+			[
+				"meta",
+				"View/Elements/meta.ctp"
+			],
+			[
+				"error",
+				"View/Layouts/error.ctp"
+			],
+			[
+				"css",
+				"View/Elements/admin/css.ctp"
+			],
+			[
+				"header",
+				"View/Elements/header.ctp"
+			],
+			[
+				"admin",
+				"View/Layouts/admin.ctp"
+			],
+			[
+				"asset",
+				"Config/asset_compress.ini"
+			],
+			[
+				"adminst",
+				"webroot/css/admin-style.css"
+			],
+			[
+				"sty",
+				"webroot/css/style.css"
+			],
+			[
+				"an",
+				"View/Elements/admin_navbar.ctp"
+			],
+			[
+				"post",
+				"Model/Post.php"
+			],
+			[
+				"das",
+				"View/Usuarios/admin_dashboard.ctp"
+			],
+			[
+				"adminss",
+				"webroot/css/admin-style.css"
+			],
+			[
+				"adminsy",
+				"webroot/css/admin-style.css"
+			],
+			[
+				"apph",
+				"View/Helper/AppHelper.php"
+			],
+			[
+				"us",
+				"Controller/UsuariosController.php"
+			],
+			[
+				"hu",
+				"webroot/humans.txt"
+			],
+			[
+				"erro",
+				"View/Layouts/error.ctp"
+			],
+			[
+				"dash",
+				"View/Usuarios/dashboard.ctp"
+			],
+			[
+				"erro500",
+				"View/Errors/error500.ctp"
+			],
+			[
+				"rou",
+				"Config/routes.php"
+			],
+			[
+				"admi",
+				"View/Layouts/admin.ctp"
+			],
+			[
+				"usu",
+				"Controller/UsuariosController.php"
+			],
+			[
+				"assetini",
+				"Config/asset_compress.ini"
+			],
+			[
+				"asset_",
+				"Config/asset_compress.ini"
+			],
+			[
+				"boo",
+				"Config/bootstrap.php"
+			],
+			[
+				"usuarioc",
+				"Controller/UsuariosController.php"
+			],
+			[
+				"view",
+				"View/Posts/view.ctp"
+			],
+			[
+				"indx",
+				"View/Posts/index.ctp"
+			],
+			[
+				"data",
+				"Config/database.php"
+			],
+			[
+				"sob",
+				"View/Pages/sobre.ctp"
+			],
+			[
+				"5",
+				"View/Errors/error500.ctp"
+			],
+			[
+				"4",
+				"View/Errors/error400.ctp"
+			],
+			[
+				"ind",
+				"View/Posts/index.ctp"
+			],
+			[
+				"form",
+				"View/Elements/form_search.ctp"
+			],
+			[
+				"d",
+				"View/Layouts/default.ctp"
+			],
+			[
+				"sobre",
+				"View/Pages/sobre.ctp"
+			],
+			[
+				"st",
+				"webroot/css/style.css"
+			],
+			[
+				"h",
+				"View/Posts/home.ctp"
+			],
+			[
+				"ap",
+				"Controller/AppController.php"
+			],
+			[
+				"fb",
+				"View/Elements/fb_like.ctp"
+			],
+			[
+				"tra",
+				"View/Pages/trabalhos.ctp"
+			],
+			[
+				"con",
+				"Controller/ContatosController.php"
+			],
+			[
+				"contat",
+				"View/Contatos/index.ctp"
+			],
+			[
+				"tr",
+				"View/Pages/trabalhos.ctp"
+			],
+			[
+				"appjs",
+				"webroot/ckeditor/_source/plugins/a11yhelp/plugin.js"
+			],
+			[
+				"app",
+				"Controller/AppController.php"
+			],
+			[
+				"rss/",
+				"View/Posts/rss/index.ctp"
+			],
+			[
+				"routes",
+				"Config/routes.php"
+			],
+			[
+				"admin_e",
+				"View/Posts/admin_edit.ctp"
+			],
+			[
+				"email",
+				"Config/email.php"
+			],
+			[
+				"contact",
+				"Controller/ContatosController.php"
+			],
+			[
+				"contato",
+				"Model/Contato.php"
+			],
+			[
+				"postc",
+				"Controller/PostsController.php"
+			],
+			[
+				"defa",
+				"View/Layouts/default.ctp"
+			],
+			[
+				"styl",
+				"webroot/css/style.css"
+			],
+			[
+				"pagina",
+				"View/Elements/admin/pagination.ctp"
+			],
+			[
+				"pos",
+				"Model/Post.php"
+			],
+			[
+				"admin_v",
+				"View/Elements/admin_navbar.ctp"
+			],
+			[
+				"adminindex",
+				"View/Posts/admin_index.ctp"
+			],
+			[
+				"admin_edit",
+				"View/Posts/admin_edit.ctp"
+			],
+			[
+				"apphel",
+				"View/Helper/AppHelper.php"
+			],
+			[
+				"pages",
+				"Controller/PagesController.php"
+			],
+			[
+				"gpb",
+				"View/Elements/google_plus_button.ctp"
+			],
+			[
+				"defaul",
+				"View/Layouts/default.ctp"
+			],
+			[
+				"style",
+				"webroot/css/style.css"
+			],
+			[
+				"stle",
+				"webroot/css/style.css"
+			],
+			[
+				"admin_index",
+				"View/Usuarios/admin_index.ctp"
+			],
+			[
+				"edit.c",
+				"View/Posts/admin_edit.ctp"
+			],
+			[
+				"add",
+				"View/Posts/admin_add.ctp"
+			],
+			[
+				"point",
+				"Model/Point.php"
+			],
+			[
+				"linesc",
+				"Controller/LinesController.php"
+			],
+			[
+				"ae",
+				"View/Lines/admin_edit.ctp"
+			],
+			[
+				"poin",
+				"Model/Point.php"
+			],
+			[
+				"ai",
+				"View/Lines/admin_index.ctp"
+			],
+			[
+				"admin_in",
+				"View/Lines/admin_index.ctp"
+			],
+			[
+				"navbar",
+				"View/Elements/admin/navbar.ctp"
+			],
+			[
+				"linc",
+				"Controller/LinesController.php"
+			],
+			[
+				"line",
+				"Model/Line.php"
+			],
+			[
+				"linecon",
+				"Controller/LinesController.php"
+			],
+			[
+				"alert",
+				"View/Elements/admin/alert.ctp"
+			],
+			[
+				"userc",
+				"Controller/UsersController.php"
+			],
+			[
+				"usersc",
+				"Controller/UsersController.php"
+			],
+			[
+				"scripts",
+				"webroot/js/admin/scripts.js"
+			],
+			[
+				"admin_add",
+				"/home/everton/Sites/udibus/app/View/Lines/admin_add.ctp"
+			],
+			[
+				"user",
+				"Model/User.php"
+			],
+			[
+				"admin_ind",
+				"View/Users/admin_index.ctp"
+			],
+			[
+				"mo",
+				"Model/AppModel.php"
+			],
+			[
+				"na",
+				"View/Elements/admin/navbar.ctp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/evertoninocencio/Sites/udibus/app/Udibus.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true
+}
