@@ -34,7 +34,7 @@ if (isset($_GET['json'])) {
 	<title><?php echo $title . $today ?></title>
 	<meta name="author" value="hewertho.mn">
 	<meta http-equiv="refresh" content="300">
-	<link href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" rel="stylesheet">
+	<link href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css" rel="stylesheet">
 	<link href="http://netdna.bootstrapcdn.com/bootswatch/2.3.2/slate/bootstrap.min.css"rel="stylesheet" type="text/css" >
 </head>
 <body>
@@ -45,18 +45,21 @@ if (isset($_GET['json'])) {
 			<div class="span4">
 				<h3><?php echo $today ?></h3>
 			</div>
-			<div class="span3">
-				<br>
-				<a class="btn btn-link btn-small" href="https://vimeo.com/70988658"><i class="icon-facetime-video"></i> vimeo.com/70988658</a>
-			</div>
 			<div class="span4">
-				<form class="form-horizontal pull-right">
-					<select class="span2" name="date">
-						<?php foreach (Temperature::getDates() as $date): ?>
-							<option value="<?php echo $date ?>" <?php echo $date == @$_GET['date'] ? 'selected' : '' ?>><?php echo date_format(date_create($date), 'd/m/Y') ?></option>
-						<?php endforeach ?>
-					</select>
-					<input type="submit" class="btn btn-inverse" value="Ok">
+				<br>
+				<a class="btn btn-link btn-small" href="https://vimeo.com/70988658" target="_blank"><i class="icon-youtube-play"></i> video</a>
+				<a class="btn btn-link btn-small" href="https://bitbucket.org/hewerthomn/inout-temperature" target="_blank"><i class="icon-bitbucket"></i> code</a>
+			</div>
+			<div class="span3 pull-right">
+				<form class="form-horizontal">
+					<div class="pull-right">
+						<select class="span2" name="date">
+							<?php foreach (Temperature::getDates() as $date): ?>
+								<option value="<?php echo $date ?>" <?php echo $date == @$_GET['date'] ? 'selected' : '' ?>><?php echo date_format(date_create($date), 'd/m/Y') ?></option>
+							<?php endforeach ?>
+						</select>
+						<input type="submit" class="btn btn-inverse" value="Ok">
+					</div>
 				</form>
 			</div>
 		</div>
