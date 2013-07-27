@@ -37,7 +37,7 @@ class InOut {
 		try {
 
 			$date = ($date == null) ? date('Y-m-d') : $date;
-			$sql = "SELECT temp_interna, temp_externa, DATE_FORMAT(datahora, '%k:%i') AS hora
+			$sql = "SELECT temp_interna, temp_externa, DATE_FORMAT(datahora, '%H:%i') AS hora
 					FROM {$this->table}
 					WHERE DATE(datahora) = :datahora
 					ORDER BY id";
@@ -73,7 +73,7 @@ class InOut {
 		try {
 
 			$date = ($date == null) ? date('Y-m-d') : $date;
-			$sql = "SELECT humidity_interna, humidity_externa, DATE_FORMAT(datahora, '%k:%i') AS hora
+			$sql = "SELECT humidity_interna, humidity_externa, DATE_FORMAT(datahora, '%H:%i') AS hora
 					FROM {$this->table}
 					WHERE DATE(datahora) = :datahora
 					ORDER BY id;";
@@ -109,7 +109,7 @@ class InOut {
 		try {
 
 			$date = ($date == null) ? date('Y-m-d') : $date;
-			$sql = "SELECT dew_point_interna, dew_point_externa, DATE_FORMAT(datahora, '%k:%i') AS hora
+			$sql = "SELECT dew_point_interna, dew_point_externa, DATE_FORMAT(datahora, '%H:%i') AS hora
 					FROM {$this->table}
 					WHERE DATE(datahora) = :datahora
 					ORDER BY id;";
@@ -145,7 +145,7 @@ class InOut {
 		try {
 
 			$date = ($date == null) ? date('Y-m-d') : $date;
-			$sql = "SELECT temp_interna, temp_externa, humidity_interna, humidity_externa, dew_point_interna, dew_point_externa, DATE_FORMAT(datahora, '%k:%i') AS hora
+			$sql = "SELECT temp_interna, temp_externa, humidity_interna, humidity_externa, dew_point_interna, dew_point_externa, DATE_FORMAT(datahora, '%H:%i') AS hora
 					FROM {$this->table}
 					WHERE DATE(datahora) = :datahora
 					ORDER BY id;";
